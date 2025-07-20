@@ -124,6 +124,22 @@ a {
   color: #2e2f42;
 }
 
+.peoples-name {
+  font-size: 36px;
+  line-height: 1.11;
+  text-transform: capitalize;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.peoples-list {
+  background-color: #ffffff;
+}
+
 .peoples-work {
   font-weight: 400;
   font-size: 16px;
@@ -131,13 +147,14 @@ a {
   letter-spacing: 0.02em;
 }
 
-.our-portfolio {
+.portfolio-name {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 
 .portfolio-list {
